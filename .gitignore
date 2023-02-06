@@ -1,0 +1,12 @@
+env/
+__pycache__/
+
+.DS_Store
+.DS_Store?
+._*
+.__pycache__/
+.jpg
+.JPG
+.xlsx
+.docx
+
